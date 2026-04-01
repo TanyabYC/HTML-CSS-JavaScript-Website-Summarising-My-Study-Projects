@@ -2,9 +2,6 @@
 .project a, .project-instruction {
     line-height: 2.75;
 }
-    .root {
-        font-weight: bold;
-    }
 .project a {
     display: block;
 }
